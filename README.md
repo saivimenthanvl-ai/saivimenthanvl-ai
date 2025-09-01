@@ -87,7 +87,7 @@ I am a **passionate AIML enthusiast** completed my undergraduate studies. I buil
 ---
 
 ## 📫 Reach Me
-- Email: **saivimenthanvlvl@gmail.com**  
+- Email: **saivimenthanvl@gmail.com**  
 - LinkedIn: **www.linkedin.com/in/saivimenthanvl-ai**
 
 ---
