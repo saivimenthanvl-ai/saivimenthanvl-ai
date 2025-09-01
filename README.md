@@ -76,7 +76,7 @@ I am a **passionate AIML enthusiast** completed my undergraduate studies. I buil
 - **Tamil OCR + Structured Extraction** — End-to-end pipeline for **Aadhaar, invoices, PDFs** using *Tesseract + OpenCV + rule-based NLP*.  
 - **Tamil LLM Dataset & QG** — Built **1000+ instruction/QA pairs**, **SentencePiece tokenizer**, and **GPT-2-style decoder** fine-tuning.  
 - **Farmculture** — Voice-first agriculture assistant (Vertex AI, Machine Learning) for **crop disease diagnosis, market prices, and govt schemes**.
-- **Health Tracker Bot AI** — Voice-first agriculture assistant (Vertex AI, Machine Learning) for **crop disease diagnosis, market prices, and govt schemes**.  
+- **Health Tracker Bot AI** — Health Tracker Bot AI — Real-time web app with **TypeScript, JavaScript, CSS** that lets users log symptoms, vitals, and medications in a chat-style interface; persists data via simple API endpoints.
 - **Monkeypox Lesion Classification** — CNN/ResNet50 + **wavelet + LBP texture fusion**, with ROC/AUC & confusion matrix evaluation.  
 - **HMPV Virus Research** — Deep learning + machine learning pipeline for medical image classification and research publication.  
 - **Portfolio** —  Responsive personal site built with **HTML, CSS, JavaScript**, **integrating API endpoints; Dockerized with Nginx for one-command, reproducible deployments.
