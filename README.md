@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=800&color=00E676&center=true&vCenter=true&width=750&lines=Sai+Vimenthan+V+L;Train%2C+Build%2C+Coffee!!!;AI+%26+ML+Engineer+%7C+NLP+(Tamil%2C+Indic)+%7C+Computer+Vision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=800&color=00E676&center=true&vCenter=true&width=750&lines=Sai+Vimenthan+V+L;Train%2C+Predict%2C+BuildI+%26+ML+Engineer+%7C+NLP+(Tamil%2C+Indic)+%7C+Computer+Vision" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -73,8 +73,8 @@ I am a **passionate AI&ML enthusiast** completed my undergraduate studies. I bui
 ---
 
 ## 🔬 Selected Work & Research
-- **Tamil OCR + Structured Extraction** — End-to-end pipeline for **Aadhaar, invoices, PDFs** using *Tesseract + OpenCV + rule-based NLP*.  
-- **Tamil LLM Dataset & QG** — Built **1000+ instruction/QA pairs**, **SentencePiece tokenizer**, **GPT-2-style decoder** fine-tuning currently working on dataset buidling from scratch flair libraries.  
+- **OCR Extraction** — End-to-end pipeline for **Aadhaar, invoices, PDFs** using *Tesseract + OpenCV + rule-based NLP*.  
+- **Tamil LLM  ** — Built **1000+ instruction/QA pairs**, **SentencePiece tokenizer**, **GPT-2-style decoder** fine-tuning currently working on dataset buidling from scratch **flair** library to deploy model.  
 - **Farmculture** — Voice-first agriculture assistant (Vertex AI, Machine Learning) for **crop disease diagnosis, market prices, and govt schemes**.
 - **Health Tracker Bot AI** — Health Tracker Bot AI — Real-time web app with **TypeScript, JavaScript, CSS** that lets users log symptoms, vitals, and medications in a chat-style interface; persists data via simple API endpoints.
 - **HMPV Virus Research** — Deep learning + machine learning pipeline for medical image classification and research publication.  
