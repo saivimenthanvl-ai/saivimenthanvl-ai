@@ -91,6 +91,6 @@ I am a **passionate AI&ML enthusiast** completed my undergraduate studies. I bui
 ---
 
 ### ⭐ Fun fact
-I enjoy teaching ML concepts with real-world analogies and building bilingual (Tamil/English) datasets that make low-resource AI more accessible.
+I love working with ML concepts with real-world analogies and building bilingual datasets that make low-resource AI more accessible.
 
 
