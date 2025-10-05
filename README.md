@@ -59,6 +59,8 @@ I am a **passionate AI&ML enthusiast** completed my undergraduate studies. I bui
 ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD0031?logo=firebase&logoColor=white)
+
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
