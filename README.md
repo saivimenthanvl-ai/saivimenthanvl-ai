@@ -76,7 +76,7 @@ I am a **passionate AI&ML enthusiast** completed my undergraduate studies. I bui
 
 ## 🔬 Selected Work & Research
 - **OCR Extraction** — End-to-end pipeline for **Aadhaar, invoices, PDFs** using *Tesseract + OpenCV + rule-based NLP*.  
-- **Tamil LLM  ** — Built **1000+ instruction/QA pairs**, **SentencePiece tokenizer**, **GPT-2-style decoder**, **Qwen2-7B** fine-tuning currently working on dataset buidling from scratch **flair** library to deploy model.  
+- **Bilingual LLM** — Built **1000+ instruction/QA pairs**, **SentencePiece tokenizer**, **GPT-2-style decoder**, **Qwen2-7B** fine-tuning currently working on dataset buidling from scratch **flair** library to deploy model.  
 - **Farmculture** — Voice-first agriculture assistant (Vertex AI, Machine Learning) for **crop disease diagnosis, market prices, and govt schemes**.
 - **HMPV Virus Research** — Deep learning + machine learning pipeline for medical image classification and research publication.
 - - **Monkeypox Classification** — CNN/ResNet50 + **wavelet + LBP texture fusion**, with ROC/AUC & confusion matrix evaluation.
