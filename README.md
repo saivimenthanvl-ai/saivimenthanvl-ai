@@ -84,7 +84,7 @@ I am a **passionate AI&ML enthusiast** completed my undergraduate studies. I bui
 
 > *Publications.*
 - **Monkeypox Classification** — CNN/ResNet50 + **wavelet + LBP texture fusion**, with ROC/AUC & confusion matrix evaluation.
-- - **Farmculture** — Voice-first agriculture assistant (Vertex AI, Machine Learning,Blockchain) for **crop disease diagnosis, market prices, and govt schemes**.
+- **Farmculture** — Voice-first agriculture assistant (Vertex AI, Machine Learning,Blockchain) for **crop disease diagnosis, market prices, and govt schemes**.
 ---
 
 ## 📫 Reach Me
