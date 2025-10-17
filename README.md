@@ -16,9 +16,7 @@ I am a **passionate AI&ML enthusiast** completed my undergraduate studies. I bui
 
 > **Interests:** LLMs for low-resource languages, OCR pipelines, dataset engineering, model serving & evaluation.
 
-<p align="center">
-  <a href="https://saivimenthan-domrjc4.gamma.site/">https://saivimenthan-domrjc4.gamma.site/</a>
-</p>
+
 ---
 
 ## 📈 Activity Snapshot
