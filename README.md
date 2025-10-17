@@ -17,9 +17,8 @@ I am a **passionate AI&ML enthusiast** completed my undergraduate studies. I bui
 > **Interests:** LLMs for low-resource languages, OCR pipelines, dataset engineering, model serving & evaluation.
 
 <p align="center">
-  <a href="https://github.com/saivimenthanvl-ai">https://saivimenthan-domrjc4.gamma.site/<img src="https://img.shields.io/badge/%E2%9C%A8%20Visit%20my%20Portfolio-%F0%9F%94%97-green?style=for-the-badge https://c760f683upln.trickle.host/"></a>
+  <a href="https://saivimenthan-domrjc4.gamma.site/">https://saivimenthan-domrjc4.gamma.site/</a>
 </p>
-
 ---
 
 ## 📈 Activity Snapshot
