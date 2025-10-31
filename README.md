@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/saivimenthanvl-ai"><img src="https://komarev.com/ghpvc/?username=saivimenthanvl-ai&style=flat&color=00e676" alt="profile views"></a>
   <a href="https://github.com/saivimenthanvl-ai?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/saivimenthanvl-ai?style=flat&color=00e676"></a>
-  <a href="mailto:saivimenthanvlvl@gmail.com"><img alt="email" src="https://img.shields.io/badge/Contact-Email-0A66C2?logo=gmail"></a>
+  <a href="mailto:saivimenthanvl@gmail.com"><img alt="email" src="https://img.shields.io/badge/Contact-Email-0A66C2?logo=gmail"></a>
   <a href="https://www.linkedin.com/in/sai-vimenthan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin"></a>
 </p>
 
