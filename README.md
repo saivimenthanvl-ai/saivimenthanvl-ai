@@ -12,7 +12,11 @@
 ---
 
 ### 👋 Hey! I'm **Sai Vimenthan V L**
-I am a **passionate AI&ML enthusiast** completed my undergraduate studies. I build real world end-to-end systems across **NLP (Tamil/Indic)**, **Computer Vision**, and **Deep Learning**. I love working with ideas into collaborative with teams.
+I am a **Determined AI/ML Engineer** interested in creating intelligent and equitable systems. I explore the intersection of machine learning LLM models to create practical AI solutions.
+
+I have been developing GPT-2 and Qwen based language modeling recently and created project Farmer react-based AI farm assistant for clean, responsive, and accessible UI. My experience has been in machine learning deep learning and fine-tuning LLMs, translating research ideas into real applications such as document automation and AI-driven e-learning platforms.
+
+Skilled in Python, Java, HTML, CSS, JavaScript, C, and MySQL, driven by curiosity and problem-solving models with usable interfaces. currently working about using AI/ML and modern web frameworks to design and deliver innovative, scalable, and user-friendly applications that make technology more approachable and impactful.
 
 > **Interests:** LLMs for low-resource languages, OCR pipelines, dataset engineering, model serving & evaluation.
 
