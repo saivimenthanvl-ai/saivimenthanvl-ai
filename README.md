@@ -23,15 +23,6 @@ Skilled in Python, Java, HTML, CSS, JavaScript, C, and MySQL, driven by curiosit
 
 ---
 
-## 📈 Activity Snapshot
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saivimenthanvl-ai&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=saivimenthanvl-ai&theme=radical&hide_border=true" height="160" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivimenthanvl-ai&layout=compact&theme=radical&hide_border=true" height="120" />
-</p>
-
 ---
 
 ## 🧠 Most Used Tech
