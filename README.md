@@ -71,7 +71,7 @@ Skilled in Python, Java, HTML, CSS, JavaScript, C, and MySQL, driven by curiosit
 - **Bilingual LLM** — Built **1000+ instruction/QA pairs**, **SentencePiece tokenizer**, **GPT-2-style decoder**, **Qwen2-7B** fine-tuning currently working on dataset buidling from scratch **flair** library to deploy model.  
 - **Farmculture** — Voice-first agriculture assistant (Vertex AI, Machine Learning) for **crop disease diagnosis, market prices, and govt schemes**.
 - **HMPV Virus Research** — Deep learning + machine learning pipeline for medical image classification and research publication.
-- - **Monkeypox Classification** — CNN/ResNet50 + **wavelet + LBP texture fusion**, with ROC/AUC & confusion matrix evaluation.
+- **Monkeypox Classification** — CNN/ResNet50 + **wavelet + LBP texture fusion**, with ROC/AUC & confusion matrix evaluation.
 - **Portfolio** —  Responsive personal site built with **HTML, CSS, JavaScript**, **integrating API endpoints; Dockerized with Nginx for one-command, reproducible deployments.
 
 > *Publications.*
