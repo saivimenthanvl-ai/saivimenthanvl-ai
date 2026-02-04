@@ -12,12 +12,11 @@
 ---
 
 ### 👋 Hey! I'm **Sai Vimenthan V L**
-I am a **Determined AI/ML Engineer** interested in creating intelligent and equitable systems. I explore the intersection of machine learning LLM models to create practical AI solutions.
+Determined AI/ML Engineer interested in creating intelligent and equitable systems exploring the interest of machine learning and deep learning LLM,RAG and Agentic AI models to create real time solutions. 
 
-I have been developing GPT-2 and Qwen based language modeling recently and created project Farmer react-based AI farm assistant for clean, responsive, and accessible UI. My experience has been in machine learning deep learning and fine-tuning LLMs, translating research ideas into real applications such as document automation and AI-driven e-learning platforms.
+Working on GPT, Qwen and LLAMA based model using Indian regional languages modeling built real time Farmer based AI farm assistant for clean, responsive, and accessible UI.  expertise on fine-tuning models, translating research ideas into real applications such as document automation and AI-driven.
 
-Skilled in Python, Java, HTML, CSS, JavaScript, C, and MySQL, driven by curiosity and problem-solving models with usable interfaces. currently working about using AI/ML and modern web frameworks to design and deliver innovative, scalable, and user-friendly applications that make technology more approachable and impactful.
-
+Skilled in Python, Java, JavaScript, C, MySQL, Artificial Intelligence, React driven by curiosity and problem-solving models with usable interfaces. currently working about using AI/ML and modern frameworks to design and deliver innovative, scalable, user-friendly applications on Retrieval Augmented Generation that make technology more approachable and impactful.
 > **Interests:** LLMs for low-resource languages, OCR pipelines, dataset engineering, model serving & evaluation.
 
 
@@ -32,8 +31,6 @@ Skilled in Python, Java, HTML, CSS, JavaScript, C, and MySQL, driven by curiosit
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 
 **ML/DL & NLP:**  
