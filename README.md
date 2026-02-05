@@ -6,7 +6,7 @@
   <a href="https://github.com/saivimenthanvl-ai"><img src="https://komarev.com/ghpvc/?username=saivimenthanvl-ai&style=flat&color=00e676" alt="profile views"></a>
   <a href="https://github.com/saivimenthanvl-ai?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/saivimenthanvl-ai?style=flat&color=00e676"></a>
   <a href="mailto:saivimenthanvl@gmail.com"><img alt="email" src="https://img.shields.io/badge/Contact-Email-0A66C2?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/sai-vimenthan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/saivimenthanvl-ai/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin"></a>
 </p>
 
 ---
@@ -17,10 +17,14 @@ Determined AI/ML Engineer interested in creating intelligent and equitable syste
 Working on GPT, Qwen and LLAMA based model using Indian regional languages modeling built real time Farmer based AI farm assistant for clean, responsive, and accessible UI.  expertise on fine-tuning models, translating research ideas into real applications such as document automation and AI-driven.
 
 Skilled in Python, Java, JavaScript, C, MySQL, Artificial Intelligence, React driven by curiosity and problem-solving models with usable interfaces. currently working about using AI/ML and modern frameworks to design and deliver innovative, scalable, user-friendly applications on Retrieval Augmented Generation that make technology more approachable and impactful.
+
 > **Interests:** LLMs for low-resource languages, OCR pipelines, dataset engineering, model serving & evaluation.
 
-
 ---
+
+## 🚀 Portfolio
+
+📍 [Click here to view my portfolio](https://vision-think-76310359.figma.site/)
 
 ---
 
@@ -28,12 +32,14 @@ Skilled in Python, Java, JavaScript, C, MySQL, Artificial Intelligence, React dr
 **Programming:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-blue?style=for-the-badge)
+![React Native Example](https://img.shields.io/badge/ReactNative-Example-blue)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 
-**ML/DL & NLP:**  
+**ML/DL/NLP & LLM:**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
@@ -50,7 +56,6 @@ Skilled in Python, Java, JavaScript, C, MySQL, Artificial Intelligence, React dr
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD0031?logo=firebase&logoColor=white)
 
-
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -64,16 +69,13 @@ Skilled in Python, Java, JavaScript, C, MySQL, Artificial Intelligence, React dr
 ---
 
 ## 🔬 Selected Work & Research
-- **OCR Extraction** — End-to-end pipeline for **Aadhaar, invoices, PDFs** using *Tesseract + OpenCV + rule-based NLP*.  
-- **Bilingual LLM** — Built **1000+ instruction/QA pairs**, **SentencePiece tokenizer**, **GPT-2-style decoder**, **Qwen2-7B** fine-tuning currently working on dataset buidling from scratch **flair** library to deploy model.  
 - **Farmculture** — Voice-first agriculture assistant (Vertex AI, Machine Learning) for **crop disease diagnosis, market prices, and govt schemes**.
 - **HMPV Virus Research** — Deep learning + machine learning pipeline for medical image classification and research publication.
 - **Monkeypox Classification** — CNN/ResNet50 + **wavelet + LBP texture fusion**, with ROC/AUC & confusion matrix evaluation.
-- **Portfolio** —  Responsive personal site built with **HTML, CSS, JavaScript**, **integrating API endpoints; Dockerized with Nginx for one-command, reproducible deployments.
-
 > *Publications.*
 - **Monkeypox Classification** — CNN/ResNet50 + **wavelet + LBP texture fusion**, with ROC/AUC & confusion matrix evaluation.
 - **Farmculture** — Voice-first agriculture assistant (Vertex AI, Machine Learning,Blockchain) for **crop disease diagnosis, market prices, and govt schemes**.
+
 ---
 
 ## 📫 Reach Me
@@ -84,5 +86,3 @@ Skilled in Python, Java, JavaScript, C, MySQL, Artificial Intelligence, React dr
 
 ### ⭐ Fun fact
 I love working with ML concepts with real-world analogies and building bilingual datasets that make low-resource AI more accessible.
-
-
