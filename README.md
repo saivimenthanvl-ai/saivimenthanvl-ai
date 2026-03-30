@@ -16,7 +16,7 @@ Determined AI/ML Engineer interested in creating intelligent and equitable syste
 
 Working on GPT, Qwen and LLAMA based model using Indian regional languages modeling built real time Farmer based AI farm assistant for clean, responsive, and accessible UI.  expertise on fine-tuning models, translating research ideas into real applications such as document automation and AI-driven.
 
-Skilled in Python, Java, JavaScript, C, MySQL, Artificial Intelligence, React driven by curiosity and problem-solving models with usable interfaces. currently working about using AI/ML and modern frameworks to design and deliver innovative, scalable, user-friendly applications on Retrieval Augmented Generation that make technology more approachable and impactful.
+Skilled in Python, MySQL, Artificial Intelligence,Machine Learning and LLM driven by curiosity and problem-solving models with usable interfaces. currently working about using AI and ML and modern frameworks to design and deliver innovative, scalable, user-friendly applications on Retrieval Augmented Generation that make technology more approachable and impactful.
 
 > **Interests:** LLMs for low-resource languages, OCR pipelines, dataset engineering, model serving & evaluation.
 
