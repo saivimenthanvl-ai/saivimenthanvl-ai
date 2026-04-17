@@ -24,7 +24,7 @@ Skilled in Python, MySQL, Artificial Intelligence,Machine Learning and LLM drive
 
 ## 🚀 Portfolio
 
-📍 [Click here to view my portfolio]([https://vision-think-76310359.figma.site/](https://vision-think-76310359.figma.site/)
+📍 [Click here to view my portfolio]([https://vision-think-76310359.figma.site/][(https://portfolio-o0wnrynzj-saivimenthanvlai.vercel.app/)]
 
 ---
 
