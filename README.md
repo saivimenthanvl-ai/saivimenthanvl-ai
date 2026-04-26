@@ -24,7 +24,7 @@ Skilled in Python, MySQL, Artificial Intelligence,Machine Learning and LLM drive
 
 ## 🚀 Portfolio
 
-📍 [Click here to view my portfolio][((https://portfolio-saivimenthanvlai.vercel.app/))]
+📍 [Click here to view my portfolio](https://portfolio-saivimenthanvlai.vercel.app/)
 
 ---
 
