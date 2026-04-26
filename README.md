@@ -28,7 +28,7 @@ Skilled in Python, MySQL, Artificial Intelligence,Machine Learning and LLM drive
 
 ---
 
-## ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
