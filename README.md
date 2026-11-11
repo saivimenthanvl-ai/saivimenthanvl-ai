@@ -112,4 +112,4 @@
 </tr>
 </table>
 
-<p align="center"><sub>Sai Vimenthan · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Sai Vimenthan · recruiter-ready profile </sub></p>
